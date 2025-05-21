@@ -93,6 +93,9 @@ Once both the backend and frontend are running, open your browser and visit:
 ✅ **Database:** MySQL  
 ✅ **Authentication:** JWT  
 
+
+AUTHOR: Abhay Singh Deopa and Anusha Joshi
+
 ---
 
 ## **Contributing**  
